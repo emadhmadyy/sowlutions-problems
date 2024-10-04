@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\sowlutions\problem1\bin\Debug\net8.0\problem1.exe
+C:\Users\Administrator\Desktop\sowlutions\problem1\bin\Debug\net8.0\problem1.deps.json
+C:\Users\Administrator\Desktop\sowlutions\problem1\bin\Debug\net8.0\problem1.runtimeconfig.json
+C:\Users\Administrator\Desktop\sowlutions\problem1\bin\Debug\net8.0\problem1.dll
+C:\Users\Administrator\Desktop\sowlutions\problem1\bin\Debug\net8.0\problem1.pdb
+C:\Users\Administrator\Desktop\sowlutions\problem1\obj\Debug\net8.0\problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\sowlutions\problem1\obj\Debug\net8.0\problem1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\sowlutions\problem1\obj\Debug\net8.0\problem1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\sowlutions\problem1\obj\Debug\net8.0\problem1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sowlutions\problem1\obj\Debug\net8.0\problem1.dll
+C:\Users\Administrator\Desktop\sowlutions\problem1\obj\Debug\net8.0\refint\problem1.dll
+C:\Users\Administrator\Desktop\sowlutions\problem1\obj\Debug\net8.0\problem1.pdb
+C:\Users\Administrator\Desktop\sowlutions\problem1\obj\Debug\net8.0\problem1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\sowlutions\problem1\obj\Debug\net8.0\ref\problem1.dll
